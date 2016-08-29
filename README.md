@@ -9,10 +9,9 @@ Designed to increase geocoding efficiency at AidData.
 
 You must have the following libraries installed in Python to use GeoHelper:
 
-[https://pypi.python.org/pypi/ner/](Stanford Named Entity Recognizer)
-[http://www.nltk.org/](Natural Language Toolkit)
-[https://www.scipy.org/](SciPy)
-
+* [Stanford Named Entity Recognizer](https://pypi.python.org/pypi/ner/)
+* [Natural Language Toolkit](http://www.nltk.org/)
+* [SciPy](https://www.scipy.org/)
 
 ## Usage example
 
